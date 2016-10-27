@@ -484,7 +484,7 @@
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="Coded by Bl4ckneon. Tested working for 3.2.0 Beta 3"/>
+                      <text value="Coded by Bl4ckneon. V 1.1 Tested working for DS 3.2.0 Beta 3"/>
                     </properties>
                   </component>
                   <component id="20ae" class="javax.swing.JTextArea" binding="debug">
