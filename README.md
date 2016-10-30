@@ -4,8 +4,8 @@ A GUI TOML Editor written in java.
 This is used to configure a headless router (CLI Router). When the CLI client comes out, the project will be updated to work with the client.
 
 
-![alt tag](http://imgur.com/a/tCY4j)
+![alt tag](/1.png)
 
-![alt tag](http://imgur.com/a/7qyPc)
+![alt tag](2.png)
 
-![alt tag](http://imgur.com/lIhv2TC)
+![alt tag](3.png)
